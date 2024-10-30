@@ -1,8 +1,9 @@
+import Dashboard from "./Components/Dashboard";
 
 function App() {
   return (
     <div>
-      <p>hello</p>
+      <Dashboard />
     </div>
   );
 }
